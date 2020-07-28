@@ -1,1 +1,1 @@
-# inverted_pendulum
+use state feedback an genetic algorithm  to control inverted pendulum
