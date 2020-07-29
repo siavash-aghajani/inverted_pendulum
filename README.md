@@ -1,1 +1,1 @@
-use state feedback an genetic algorithm  to control inverted pendulum
+use state feedback and genetic algorithm  to control inverted pendulum(nonlinear state space)
